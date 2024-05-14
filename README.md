@@ -56,13 +56,13 @@ npm run dev
 
 The application will be available at http://localhost:5000.
 
-### Usage
+## Usage
 - Register an Account: Sign up with your email and create a password.
 - Create an Event: Fill in the event details and save.
 - View Events: Browse and manage events via the interactive calendar.
 - Notifications: Receive updates and reminders for your events.
 
-### Contributing
+## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 - Fork the Project
@@ -71,15 +71,15 @@ Contributions are what make the open source community such an amazing place to l
 - Push to the Branch (git push origin feature/AmazingFeature)
 - Open a Pull Request
 
-### License
+## License
 Distributed under the MIT License. See LICENSE for more information.
 
-### Contact
+## Contact
 Arman Dogru - arman.dogru@example.com
 
 Project Link: https://github.com/arman-dogru/eventiq-webapp
 
-### Acknowledgments
+## Acknowledgments
 
 Thanks to all the contributors and users who have made this project possible.
 Special thanks to the open source community for the tools and resources.
